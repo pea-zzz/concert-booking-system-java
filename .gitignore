@@ -1,0 +1,10 @@
+.DS_Store
+.metadata/
+bin/
+*.class
+*.zip
+
+# Local application data
+/User.txt
+/booking.txt
+/feedback.txt
